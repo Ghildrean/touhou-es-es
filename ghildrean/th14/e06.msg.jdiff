@@ -1,0 +1,156 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Sakuya  $Reimu  $Marisa  >El santuario Hakurei."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "Un santuario en la frontera oriental de Gensokyo."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<r$Sakuya  >\"...Y eso es todo.\""
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<r$Reimu  >\"Herramientas obteniendo poder y conspirando una revuelta social...\""
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<r$Marisa  >\"Va-vaya. Así que eso es lo que ha pasado.\""
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<r$Sakuya  >\"¿Oh? ¿Se os ha ocurrido algo?\""
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<r$Reimu  >\"¡Na-nada de nada!\""
+            ]
+        },
+        "6_1": {
+            "lines": [
+                "<r$Marisa  >\"¡A-absolutamente nada!\""
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<r$Sakuya  >\"Será mejor que tengáis cuidado en no veros envueltas en este asunto."
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<l$> Al fin y al cabo el enemigo usaba el Mazo de los Milagros.\""
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<r$Reimu  >\"El Mazo de los Milagros...\""
+            ]
+        },
+        "9_1": {
+            "lines": [
+                "<r$Marisa  >\"¿Has dicho el Mazo de los Milagros?\""
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<r$Sakuya  >\"Sólo lo vi un instante, pero percibí",
+                "<l$> que era un objeto mágico siniestro.\""
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<r$Marisa  >\"El Mazo de los Milagros es una de las herramientas de los oni."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "<l$> Quién sabe qué pasaría si lo usaras.\""
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<r$Sakuya  >\"Más razón para tener cuidado.\""
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<r$Reimu  >\"Espera, ¿por qué nos lo estás contando?\""
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<r$Sakuya  >\"Porque..."
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<l$> No quiero que os paséis al lado de la resistencia."
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "<l$> Ni que os veáis afectadas por el poder mágico de la herramienta.\""
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "<r$Reimu  >\"E-eso no pasará.\""
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "<r$Marisa  >\"Ci-cierto.\""
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "Cuando Sakuya oyó hablar de la resistencia,",
+                "en lo primero que pensó fue en Reimu y Marisa."
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "Si alguna vez la traicionaran, su propia posición estaría en peligro."
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "Así que fue a vigilarlas."
+            ]
+        },
+        "23_0": {
+            "lines": [
+                "El orden en Gensokyo está garantizado por el poder del más fuerte."
+            ]
+        },
+        "24_0": {
+            "lines": [
+                "Los débiles son oprimidos, pero los humanos no se ven envueltos en esto."
+            ]
+        },
+        "25_0": {
+            "lines": [
+                "Dependiendo del bando de los humanos, quién sabe lo que podría pasar..."
+            ]
+        },
+        "26_0": {
+            "lines": [
+                "<c$Final No. 06 — Pero la magia del Mazo de los Milagros se agotará primero.$>"
+            ]
+        },
+        "27_0": {
+            "lines": [
+                "<c$¡Completado! ¡Felicidades! ¡Eres increíble!$>"
+            ]
+        }
+    }
+}

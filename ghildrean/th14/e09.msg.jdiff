@@ -1,0 +1,45 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Marisa  >Residencia de Marisa."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "El espíritu de Marisa estaba alterado."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<r$Marisa  >\"No parece tan mezquino."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<l$> Puede que me alíe con ellos...\""
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "Marisa fue aplastada por el poder del Mazo de los Milagros."
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "¡¿De verdad Marisa va a unirse a los rebeldes?!"
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "　",
+                "<c$Final No. 09 — ¡Usa las bombas de forma efectiva!$>"
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<c$¡Intenta terminar sin continuar!$>"
+            ]
+        }
+    }
+}

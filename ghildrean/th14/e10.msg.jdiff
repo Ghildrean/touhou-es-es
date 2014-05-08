@@ -1,0 +1,45 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Marisa  >Residencia de Marisa."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "El espíritu de Marisa fue aplastado."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<r$Marisa  >\"¡Argh, esto no está bien!"
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<l$> Sin mi mini-Hakkero, no tengo ninguna oportunidad...\""
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "Marisa fue aplastada por el poder del Mazo de los Milagros."
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "Pero no quiere usar el poder del mini-Hakkero... posiblemente."
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "　",
+                "<c$Final No. 10 — ¡Acumula vidas en los primeros niveles!$>"
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<c$¡Intenta terminar sin continuar!$>"
+            ]
+        }
+    }
+}

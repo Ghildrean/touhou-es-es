@@ -1,0 +1,335 @@
+{
+    "2": {
+        "60_0": {
+            "lines": [
+                "¡Ah, la limpieza no termina nunca!"
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "¡¡Mi señora se enfadará conmigo!!"
+            ]
+        }
+    },
+    "0": {
+        "60_0": {
+            "lines": [
+                "¡Otra vez te interpones en mi limpieza!"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Tú...",
+                "no pareces ser la dueña."
+            ]
+        },
+        "64_h1_0": {
+            "lines": [
+                "Sirvienta de la Mansion del Demonio Escarlata",
+                "Sakuya Izayoi"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "¿Qué es lo que quieres?",
+                "¿Eres una invitada de mi señora?"
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "(Probablemente no me deje pasar si",
+                "le digo que vine a derrotar a su señora.)"
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "No puedes pasar."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "De todas formas, mi señora rara vez",
+                "se reúne con gente."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "¿Está bajo arresto domiciliario?"
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "A mi señora le gustan los lugares oscuros."
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "Entonces alguien no tan oscura, como tú, servirá."
+            ]
+        },
+        "73_0": {
+            "lines": [
+                "Sois vosotras las que hacéis que esta niebla",
+                "se extienda por todas partes, ¿no es así?"
+            ]
+        },
+        "75_0": {
+            "lines": [
+                "Es bastante molesta.",
+                "¿Qué estáis intentando conseguir?"
+            ]
+        },
+        "77_0": {
+            "lines": [
+                "A mi señora le molesta la luz del sol.",
+                "Prefiere la oscuridad."
+            ]
+        },
+        "79_0": {
+            "lines": [
+                "Pues yo no.",
+                "¿Podéis parar?"
+            ]
+        },
+        "81_0": {
+            "lines": [
+                "Pídeselo a mi señora."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Llámala entonces."
+            ]
+        },
+        "83_0": {
+            "lines": [
+                "¿Y por qué debo dejar que mi señora",
+                "se ponga en peligro?"
+            ]
+        },
+        "85_0": {
+            "lines": [
+                "¿Vendrá si causo",
+                "problemas aquí?"
+            ]
+        },
+        "87_0": {
+            "lines": [
+                "Ya has causado bastantes."
+            ]
+        },
+        "88_0": {
+            "lines": [
+                "Aun así, no puedes reunirte",
+                "con mi señora."
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "¡Puedo detenerte todo el tiempo que",
+                "haga falta parando el tiempo!"
+            ]
+        }
+    },
+    "3": {
+        "61_0": {
+            "lines": [
+                "¡¿Qué te ha parecido?!"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "¿Por qué estás tan segura con ese nivel?",
+                "Todavía te queda mucho por recorrer."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Vuelve a dos horas antes."
+            ]
+        }
+    },
+    "1": {
+        "61_0": {
+            "lines": [
+                "Ahora me dejarás ver a la señora, ¿verdad?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Es fuerte...",
+                "Pero puede que mi señora..."
+            ]
+        }
+    },
+    "12": {
+        "60_0": {
+            "lines": [
+                "¡Ah, la limpieza no termina nunca!"
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "¡¡Mi señora se enfadará conmigo!!"
+            ]
+        }
+    },
+    "10": {
+        "60_0": {
+            "lines": [
+                "Otra vez te interpones en mi limpieza."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Vaya, una sirvienta."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Me arrestarán por la Convención de Washington",
+                "si te atrapo."
+            ]
+        },
+        "65_h1_0": {
+            "lines": [
+                "Sirvienta de la Mansion del Demonio Escarlata",
+                "Sakuya Izayoi"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Ah, en realidad son los magos",
+                "los que necesitan más compasión."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "¡Ten compasión!"
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "¿Entonces?"
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "¿También te han contratado",
+                "para trabajar aquí?"
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Ah, no suena tan mal."
+            ]
+        },
+        "70_1": {
+            "lines": [
+                "Pero no parece que seas",
+                "capaz de limpiar."
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "No puedo."
+            ]
+        },
+        "73_0": {
+            "lines": [
+                "¿Entonces de qué estarás al cargo?",
+                "¿De las labores del amor?"
+            ]
+        },
+        "75_0": {
+            "lines": [
+                "Más bien de las labores de mantenimiento."
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "Vaya estupidez.",
+                "Ya no estamos en la escuela primaria."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "¿Significa eso que las labores del amor",
+                "pertenecen a la secundaria?"
+            ]
+        },
+        "79_0": {
+            "lines": [
+                "Muy bien, entonces te pondré",
+                "a trabajar de inmediato."
+            ]
+        },
+        "81_0": {
+            "lines": [
+                "Olvidé presentarme.",
+                "Soy Sakuya, la jefa de sirvientas."
+            ]
+        },
+        "83_0": {
+            "lines": [
+                "Entonces, si te derroto,",
+                "me convierto en la jefa de sirvientas, ¿no es así?"
+            ]
+        },
+        "85_0": {
+            "lines": [
+                "Ha habido mucha más gente que ha dicho eso y",
+                "murió que productos de desintegración del torio."
+            ]
+        },
+        "87_0": {
+            "lines": [
+                "Ah, parece ser una cantidad",
+                "bastante corriente."
+            ]
+        },
+        "89_0": {
+            "lines": [
+                "Tu tiempo también es mío...",
+                "Una bruja pasada de moda no tiene ninguna posibilidad."
+            ]
+        }
+    },
+    "13": {
+        "61_0": {
+            "lines": [
+                "Ah, estoy cansada."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "¿Por qué no te vas a casa?",
+                "Tengo trabajo que hacer."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Muy bien, lo haré."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "¿De verdad?",
+                "Adiós."
+            ]
+        }
+    },
+    "11": {
+        "61_0": {
+            "lines": [
+                "¿Puedo ser la jefa de sirvientas",
+                "sin ni siquiera ser una sirvienta?"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "¡Por supuesto que no!"
+            ]
+        }
+    }
+}

@@ -1,0 +1,669 @@
+{
+    "2": {
+        "60_0": {
+            "lines": [
+                "¿Qué?",
+                "¿Otra vez estás aquí?"
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "Otra vez estoy aquí."
+            ]
+        },
+        "221_0": {
+            "lines": [
+                "Hoy mi asma no es tan grave,"
+            ]
+        },
+        "282_0": {
+            "lines": [
+                "¡así que te mostraré",
+                "mi mejor magia!"
+            ]
+        }
+    },
+    "0": {
+        "60_0": {
+            "lines": [
+                "Hoy hace más calor de lo normal."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "¿Están atacando de forma más violenta"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "debido a la chica de antes",
+                "que se volvió loca?"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "¡Qué ingenua!",
+                "¡Tú, roja y blanca!"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "¿Ahora hay otra loca?"
+            ]
+        },
+        "247_h1_0": {
+            "lines": [
+                "La hermana pequeña del demonio",
+                "Flandre Scarlet"
+            ]
+        },
+        "247_0": {
+            "lines": [
+                "¡Aquí estoy!"
+            ]
+        },
+        "248_0": {
+            "lines": [
+                "¿Quién eres tú? No creo que estuvieras",
+                "aquí la última vez que vine..."
+            ]
+        },
+        "250_0": {
+            "lines": [
+                "Estaba, pero no podías verme."
+            ]
+        },
+        "251_0": {
+            "lines": [
+                "Entonces, ¿eres humana?"
+            ]
+        },
+        "252_0": {
+            "lines": [
+                "Sí, así es."
+            ]
+        },
+        "253_0": {
+            "lines": [
+                "No estarás tratando de engañarme, ¿verdad?"
+            ]
+        },
+        "254_0": {
+            "lines": [
+                "Nunca he visto a un humano que no",
+                "sea en forma de bebida."
+            ]
+        },
+        "256_0": {
+            "lines": [
+                "Así es, de verdad soy humana."
+            ]
+        },
+        "257_0": {
+            "lines": [
+                "Los humanos son un poco más complejos que el té.",
+                "Al menos la mayoría."
+            ]
+        },
+        "259_0": {
+            "lines": [
+                "Pero los pollos..."
+            ]
+        },
+        "260_0": {
+            "lines": [
+                "¿Eh?"
+            ]
+        },
+        "261_0": {
+            "lines": [
+                "...incluso si no sabes cocinarlos,",
+                "siguen siendo sabrosos."
+            ]
+        },
+        "263_0": {
+            "lines": [
+                "¿Y quién prepara comida a partir",
+                "de humanos en esta mansión?"
+            ]
+        },
+        "265_0": {
+            "lines": [
+                "¡No lo sé! Aunque dudo",
+                "que mi hermana lo haga..."
+            ]
+        },
+        "267_0": {
+            "lines": [
+                "¿Hermana?"
+            ]
+        },
+        "268_0": {
+            "lines": [
+                "¿Replica-nosecuanto, el demonio?"
+            ]
+        },
+        "269_0": {
+            "lines": [
+                "¡Remilia!",
+                "¡Mi hermana Remilia!"
+            ]
+        },
+        "271_0": {
+            "lines": [
+                "Dudo que tu hermana sepa",
+                "siquiera cocinar."
+            ]
+        },
+        "273_0": {
+            "lines": [
+                "No sabe."
+            ]
+        },
+        "274_0": {
+            "lines": [
+                "Hay algo que quiero decirte."
+            ]
+        },
+        "275_0": {
+            "lines": [
+                "Tu hermana sigue invadiendo mi santuario",
+                "y empieza a ser una molestia."
+            ]
+        },
+        "277_0": {
+            "lines": [
+                "¿Podrías hacer algo?"
+            ]
+        },
+        "278_0": {
+            "lines": [
+                "¡Lo sé!"
+            ]
+        },
+        "279_0": {
+            "lines": [
+                "Yo también quería ir..."
+            ]
+        },
+        "280_0": {
+            "lines": [
+                "¡No!"
+            ]
+        },
+        "281_0": {
+            "lines": [
+                "No podía.",
+                "Estaba lloviendo muy fuerte."
+            ]
+        },
+        "283_0": {
+            "lines": [
+                "Parece que te tratan de forma especial.",
+                "¿Has hecho algo malo en el pasado?"
+            ]
+        },
+        "285_0": {
+            "lines": [
+                "No podría haber hecho nada."
+            ]
+        },
+        "286_0": {
+            "lines": [
+                "No he salido de aquí ni una vez",
+                "en los últimos 495 años."
+            ]
+        },
+        "288_0": {
+            "lines": [
+                "Una niña muy problemática."
+            ]
+        },
+        "289_0": {
+            "lines": [
+                "Aunque tengo un juguete con el que jugar..."
+            ]
+        },
+        "290_0": {
+            "lines": [
+                "¿A qué quieres jugar?"
+            ]
+        },
+        "291_0": {
+            "lines": [
+                "¡A danmaku!"
+            ]
+        },
+        "292_0": {
+            "lines": [
+                "Oh, jugar a hacer patrones.",
+                "Soy bastante buena en eso."
+            ]
+        }
+    },
+    "1": {
+        "61_0": {
+            "lines": [
+                "¿Lo ves?",
+                "¡Este es el poder de aquellos que sirven a los dioses!"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "¡No pienses que has ganado con eso!"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "¡Todavía hay más!"
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "¡¿Eh?!"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Eh, no tienes muy buen aspecto."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Sí, ya no puedo ni disparar humo..."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "Vendré a jugar siempre que quieras."
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "Así que, por favor, no vengas al santuario."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Oh, pensaba hacerte una visita llevando",
+                "té y pasteles como agradecimiento."
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "Intenta no traer tu tipo de",
+                "comida a casa de un humano."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Que no sea muy dulce, ¿no es así?"
+            ]
+        },
+        "75_0": {
+            "lines": [
+                "¡Aunque sea sin azúcar!"
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "Sé una chica buena. Vete a casa",
+                "sin hacer ruido y duerme."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "...Pero si esta es mi casa."
+            ]
+        },
+        "79_0": {
+            "lines": [
+                "Entonces no necesitas ir a casa.",
+                "Qué apropiado para una chica mala..."
+            ]
+        },
+        "81_0": {
+            "lines": [
+                "Ahora me voy yo a casa."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "¡Las chicas malas no necesitan irse a casa!"
+            ]
+        },
+        "83_0": {
+            "lines": [
+                "...Después de todo dejé a otra",
+                "chica mala en el santuario."
+            ]
+        },
+        "85_0": {
+            "lines": [
+                "¿A quién te refieres con lo de chica mala?"
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "¡¡A ti y a tu hermana!!"
+            ]
+        }
+    },
+    "12": {
+        "60_0": {
+            "lines": [
+                "¿Qué?",
+                "¿Otra vez estás aquí?"
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "¿Tú?",
+                "¿Eres tú la responsable de esto?"
+            ]
+        },
+        "221_0": {
+            "lines": [
+                "No tengo tiempo para esto..."
+            ]
+        },
+        "282_0": {
+            "lines": [
+                "Primero la hermana pequeña y ahora tú.",
+                "¡Este es el peor día de todos!"
+            ]
+        }
+    },
+    "10": {
+        "60_0": {
+            "lines": [
+                "¿Qué está pasando",
+                "en este lugar?"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Remilia debería estar ahora mismo en el santuario."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Así que, ¿por qué me están atacando",
+                "todos de forma tan intensa?"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "¿Alguien me ha llamado?"
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "Desde luego que no."
+            ]
+        },
+        "246_0": {
+            "lines": [
+                "¡Aquí estoy!"
+            ]
+        },
+        "247_0": {
+            "lines": [
+                "¿Quién eres tú?"
+            ]
+        },
+        "248_0": {
+            "lines": [
+                "Antes de preguntarle el nombre a alguien..."
+            ]
+        },
+        "249_0": {
+            "lines": [
+                "Oh, ¿yo?"
+            ]
+        },
+        "250_0": {
+            "lines": [
+                "Cierto, soy Reimu Hakurei, una miko."
+            ]
+        },
+        "252_h1_0": {
+            "lines": [
+                "La hermana pequeña del demonio",
+                "Flandre Scarlet"
+            ]
+        },
+        "251_0": {
+            "lines": [
+                "Me llamo Flandre,",
+                "señorita Marisa. (Nunca podrías ser una miko.)"
+            ]
+        },
+        "253_0": {
+            "lines": [
+                "¿Y tú qué?",
+                "(¿Debería haber dicho enfermera?)"
+            ]
+        },
+        "255_0": {
+            "lines": [
+                "He estado en esta casa todo el tiempo."
+            ]
+        },
+        "256_0": {
+            "lines": [
+                "Incluso durante la última vez que",
+                "irrumpiste en este lugar."
+            ]
+        },
+        "258_0": {
+            "lines": [
+                "¿Estabas?"
+            ]
+        },
+        "259_0": {
+            "lines": [
+                "He estado durmiendo en el sótano."
+            ]
+        },
+        "260_0": {
+            "lines": [
+                "Durante 495 años."
+            ]
+        },
+        "261_0": {
+            "lines": [
+                "Qué bien, yo sólo tengo libres los fines de semana."
+            ]
+        },
+        "262_0": {
+            "lines": [
+                "Estaba escuchando cuando",
+                "luchaste con mi hermana mayor."
+            ]
+        },
+        "264_0": {
+            "lines": [
+                "¿Hermana mayor?",
+                "Así que tú eres la hermana menor."
+            ]
+        },
+        "266_0": {
+            "lines": [
+                "Siempre quise ver a un humano,",
+                "por lo que he venido a echar un vistazo."
+            ]
+        },
+        "268_0": {
+            "lines": [
+                "Vaya, pues estás de suerte.",
+                "Mira todo lo que quieras."
+            ]
+        },
+        "270_0": {
+            "lines": [
+                "¿Jugarás conmigo?"
+            ]
+        },
+        "271_0": {
+            "lines": [
+                "¿Cuál es el precio?"
+            ]
+        },
+        "272_0": {
+            "lines": [
+                "Una moneda."
+            ]
+        },
+        "273_0": {
+            "lines": [
+                "¿Una moneda?",
+                "No puedes comprar una vida con eso."
+            ]
+        },
+        "275_0": {
+            "lines": [
+                "¡Me refiero a que",
+                "no podrás continuar!"
+            ]
+        }
+    },
+    "11": {
+        "61_0": {
+            "lines": [
+                "¿Ya estás satisfecha?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "¡Esto no puede ser verdad!",
+                "No puedo creer que de verdad haya perdido..."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Sí, puede que sea menos cierto de lo que creas."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "Por hoy me voy a casa."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Sí, estoy satisfecha."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Pero al final volveré a estar sola..."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "¡♪!"
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "Si estás sola, ¿significa eso que te ahorcarás?"
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "¿Por qué debería?"
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "Se ahorcó..."
+            ]
+        },
+        "73_0": {
+            "lines": [
+                "...¡y no quedó ninguna!"
+            ]
+        },
+        "75_0": {
+            "lines": [
+                "¡¿Dónde has oído eso?!"
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "Es una rima famosa."
+            ]
+        },
+        "77_0": {
+            "lines": [
+                "Tenía planeado que tú",
+                "fueras la última."
+            ]
+        },
+        "79_0": {
+            "lines": [
+                "Cierto, cuando te hiciste invisible",
+                "durante el ataque de antes."
+            ]
+        },
+        "81_0": {
+            "lines": [
+                "No esquivó el proyectil..."
+            ]
+        },
+        "83_0": {
+            "lines": [
+                "...¡y no quedó ninguna!"
+            ]
+        },
+        "85_0": {
+            "lines": [
+                "Siento decepcionarte, pero",
+                "lamentablemente soy muy buena esquivando."
+            ]
+        },
+        "87_0": {
+            "lines": [
+                "Bueno, no importa.",
+                "Aunque me ahorcara no moriría."
+            ]
+        },
+        "89_0": {
+            "lines": [
+                "Un cadáver ahorcado es bastante horrible."
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "¿Por qué no haces como dice la verdadera canción?"
+            ]
+        },
+        "91_0": {
+            "lines": [
+                "¿La verdadera canción?"
+            ]
+        },
+        "92_0": {
+            "lines": [
+                "Espera, ¿no la conoces?"
+            ]
+        },
+        "93_0": {
+            "lines": [
+                "Se casó",
+                "y no quedó ninguna."
+            ]
+        },
+        "95_0": {
+            "lines": [
+                "¿Casarme con quién?"
+            ]
+        },
+        "96_0": {
+            "lines": [
+                "Te presentaré a la chica de un santuario."
+            ]
+        }
+    }
+}

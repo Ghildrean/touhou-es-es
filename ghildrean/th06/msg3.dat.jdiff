@@ -1,0 +1,212 @@
+{
+    "2": {
+        "60_0": {
+            "lines": [
+                "Maldición. ¡Es momento de mi formación de última batalla!"
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "¿Piensas montar una formación estando tú sola?"
+            ]
+        }
+    },
+    "0": {
+        "60_0": {
+            "lines": [
+                "¡Deja de seguirme!"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "¡Gracias por mostrarme el camino!"
+            ]
+        },
+        "62_h1_0": {
+            "lines": [
+                "Joven china",
+                "Hong Meiling"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Bueno, puedes seguirme todo lo que quieras,",
+                "pero aquí no hay nada."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "No huirías hasta en mitad de ninguna parte, ¿verdad?"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Bueno, si estuviera huyendo no creo",
+                "que fuera muy exigente de a dónde..."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Por cierto, ¿quién eres tú?"
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Eh, sólo una persona normal."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "¿Pero acaso no me atacaste antes?"
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "Te ataqué de forma normal,",
+                "¡pero tú me atacaste primero!"
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "¡Tú eres la que no es normal!"
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "¡Soy una miko completamente normal!"
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "Es bueno saberlo.",
+                "Si no recuerdo mal..."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "...se dice que las miko son el",
+                "tipo de humano que se pueden comer..."
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "¡No difundas rumores como ese!"
+            ]
+        }
+    },
+    "1": {
+        "61_0": {
+            "lines": [
+                "Muy bien, ahora muéstrame el camino."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Ya no hay más, al fin y al cabo",
+                "esta es la demo."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Oh, bueno. Es una lástima."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "¡Lo siento mucho, mi señora!"
+            ]
+        }
+    },
+    "12": {
+        "60_0": {
+            "lines": [
+                "Maldición, ¡por ahora debo huir!"
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "Nos vemos."
+            ]
+        }
+    },
+    "10": {
+        "60_0": {
+            "lines": [
+                "Ah, gracias por lo de antes."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Cuánto tiempo sin vernos."
+            ]
+        },
+        "63_h1_0": {
+            "lines": [
+                "Joven china",
+                "Hong Meiling"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Oye, ¿desde cuándo nos",
+                "conocemos?"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Desde hace un rato, ¿recuerdas?"
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "Hmm. Me he cruzado con un bicho raro,",
+                "¿no es así?"
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Como tú digas, pero estás en mi camino.",
+                "¿Acaso eres la vigilante del lugar?"
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "¡Que sepas que es trabajo de un vigilante interponerse en el camino!"
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Así que, después de todo, eres la vigilante."
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "Sólo soy una chica normal que casualmente está vigilando."
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "Así que eres una chica normal.",
+                "Tendré que castigarte ahora mismo."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "¡¿Qué clase de educación has tenido?!"
+            ]
+        }
+    },
+    "11": {
+        "61_0": {
+            "lines": [
+                "Como pensaba, luchar con",
+                "gente normal no va conmigo."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "¡Eso tiene que ser mentira!"
+            ]
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Sakuya  >La Mansión del Demonio Escarlata."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "El espíritu de Sakuya fue aplastado."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<r$Sakuya  >\"El Mazo de los Milagros tiene un poder inimaginable."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "¿Debería decírselo a mi señora...? ¿O puede...?\""
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "Sakuya consideró algo impensable, y abandonó la idea de decírselo."
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "En cualquier caso, el Mazo de los Milagros puede conceder cualquier deseo, así que..."
+            ]
+        },
+        "6_1": {
+            "lines": [
+                "<c$Final No. 12 — Observa a otros jugar de vez en cuando...$>"
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<c$¡Intenta terminar sin continuar!$>"
+            ]
+        },
+        "6_0": {
+            "lines": [
+                " "
+            ]
+        }
+    }
+}

@@ -1,0 +1,144 @@
+{
+    "0": {
+        "60_0": {
+            "lines": [
+                "¿Este lago siempre ha sido así de grande?"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Esta niebla es una molestia, no puedo ver a través de ella."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Puede que simplemente tenga un pésimo sentido de la orientación."
+            ]
+        },
+        "92_h1_0": {
+            "lines": [
+                "Hada de hielo del lago",
+                "Cirno"
+            ]
+        },
+        "92_0": {
+            "lines": [
+                "¡Pierdes el rumbo por culpa de las hadas!"
+            ]
+        },
+        "93_0": {
+            "lines": [
+                "Oh, ¿de verdad? ¿Me enseñas entonces el camino?",
+                "Por aquí había una isla, ¿verdad?"
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "¡Eh, deberías estar más sorprendida!",
+                "¡Tienes un enemigo formidable frente a ti!"
+            ]
+        },
+        "95_0": {
+            "lines": [
+                "¿Un blanco formidable?",
+                "Eso sí que es sorprendente."
+            ]
+        },
+        "96_0": {
+            "lines": [
+                "¡Deja de provocarme!"
+            ]
+        },
+        "97_0": {
+            "lines": [
+                "¡¡Pienso ultracongelarte junto",
+                "con un filete inglés!!"
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "Ah, está empezando a refrescar."
+            ]
+        },
+        "60_1": {
+            "lines": [
+                "¡A este ritmo voy a pillar un resfriado de verano!"
+            ]
+        }
+    },
+    "10": {
+        "60_0": {
+            "lines": [
+                "Estoy segura de que la isla",
+                "estaba por aquí..."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "¿Puede que se esté moviendo?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Además..."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Estamos en mitad del verano.",
+                "¿Por qué hace tanto frío?"
+            ]
+        },
+        "93_h1_0": {
+            "lines": [
+                "Hada de hielo del lago",
+                "Cirno"
+            ]
+        },
+        "93_0": {
+            "lines": [
+                "¡Nunca más volverás a pisar tierra!"
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "Así que tú eres la fría."
+            ]
+        },
+        "95_0": {
+            "lines": [
+                "Mucho mejor que la caliente, ¿no crees?"
+            ]
+        },
+        "96_0": {
+            "lines": [
+                "Qué sosa que eres."
+            ]
+        },
+        "97_0": {
+            "lines": [
+                "No, no quería decir..."
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "Es lo mejor que sabes hacer, ¿verdad?"
+            ]
+        }
+    },
+    "11": {
+        "60_0": {
+            "lines": [
+                "Ah, estas mangas cortas son malas para mi salud."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Debo encontrar pronto un lugar",
+                "donde sirvan té."
+            ]
+        }
+    }
+}

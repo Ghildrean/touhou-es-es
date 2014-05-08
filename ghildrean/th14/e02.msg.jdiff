@@ -1,0 +1,153 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Reimu  $Marisa  $Shinmyoumaru  >El santuario Hakurei."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "Un santuario en la frontera oriental de Gensokyo."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<r$Reimu  >\"¡Crece!\""
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<r$Marisa  >\"...\""
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<r$Reimu  >\"Nada, no ha hecho nada...\""
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<r$Marisa  >\"¿Estás segura de que no es una falsificación?\""
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<r$Reimu  >\"No, antes me hizo mucho más grande.\""
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<r$Marisa  >\"¿Y cómo te fue?\""
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<r$Reimu  >\"Se hizo muy difícil esquivar los proyectiles.",
+                "<l$> Lo mejor será no hacerse muy grande.\""
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<r$Marisa  >\"...Eh, claro.\""
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<r$Shinmyoumaru  >\"Muévelo cuanto quieras, no funcionará con humanos.\""
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<r$Reimu  >\"¿Oh? ¿Alguien ha dicho algo?\""
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "<r$Shinmyoumaru  >\"Sólo los diminutos podemos usar el Mazo de los Milagros."
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<l$> Aunque como consecuencia nuestros cuerpos son pequeños...\""
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<r$Reimu  >\"Hmm, ¿de verdad? Qué aburrido."
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<l$> Pero dime, ¿es verdad que puede conceder cualquier deseo?\""
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<r$Shinmyoumaru  >\"Pueeede, he oído tanto como tú.\""
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "<r$Marisa  >\"¿Qué, ni siquiera lo has intentado?\""
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "<r$Shinmyoumaru  >\"Bueno, no hay forma de demostrar que puede conceder cualquier deseo."
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "<l$> Es lo que me dijo la amanojaku.\""
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "<r$Marisa  >\"La amanojaku te dijo eso... ¿y te lo creíste?\""
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "<r$Reimu  >\"Puede que ni siquiera sea capaz de conceder deseos.\""
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "<r$Shinmyoumaru  >\"Eh, se me están durmiendo las manos...\""
+            ]
+        },
+        "23_0": {
+            "lines": [
+                "Todo el poder almancenado en la Issun-Boushi fue liberado,",
+                "haciéndola pequeña una vez más. Así se quedará durante un tiempo."
+            ]
+        },
+        "24_0": {
+            "lines": [
+                "Esta fue la primera vez que se usó el Mazo de los Milagros",
+                "para un deseo distinto al de hacerse grande."
+            ]
+        },
+        "25_0": {
+            "lines": [
+                "Además del deseo esperado, hubo una fuga de poder,",
+                "enfureciendo a los youkai pacíficos y dando vida a las herramientas."
+            ]
+        },
+        "26_0": {
+            "lines": [
+                "Uno puede preguntarse si la amanojaku lo sabía."
+            ]
+        },
+        "27_0": {
+            "lines": [
+                "<c$Final No. 02 — ¡(Zona de impacto,) hazte pequeña!.$>"
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "<c$¡Completado! ¡Felicidades! ¡Eres increíble!$>"
+            ]
+        }
+    }
+}

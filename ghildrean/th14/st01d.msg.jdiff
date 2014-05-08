@@ -1,0 +1,57 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Hace un poco de frío."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "¡Oye, tú!"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "¿Has venido a exterminarme?"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "¿Hm?",
+                "Eh, sí, supongo que sí."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Sin embargo, conque una sirena...",
+                "No sabía que hubiera una en el lago..."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Siempre me habéis ignorado."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "|\t¿No va siendo hora de que \t,\tnosotros\t,los youkai",
+                "¿No va siendo hora de que nosotros",
+                "comencemos a reinar?"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "Después de todo sólo era mitad pez.",
+                "No era gran cosa."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "¿Hubiera sido más fuerte",
+                "si fuera un pez completo?"
+            ]
+        }
+    }
+}

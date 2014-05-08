@@ -1,0 +1,967 @@
+{
+    "2": {
+        "40_0": {
+            "lines": [
+                "Por fin volvemos a encontrarnos."
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "¡Pero ten cuidado esta vez!"
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "¡Soy una shikigami completamente nueva!"
+            ]
+        },
+        "300_0": {
+            "lines": [
+                "¿Entonces qué parte de ti es nuevo?"
+            ]
+        }
+    },
+    "0": {
+        "60_0": {
+            "lines": [
+                "Si he recorrido todo el camino hasta el reino de los muertos",
+                "sólo para que lo que busco no esté aquí..."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Sería un completo fastidio."
+            ]
+        },
+        "61_1": {
+            "lines": [
+                "¿Oh? Esto no es habitual."
+            ]
+        },
+        "102_h1_0": {
+            "lines": [
+                "Shikigami de la youkai de los límites",
+                "Ran Yakumo"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "También tienen gente así aquí."
+            ]
+        },
+        "103_0": {
+            "lines": [
+                "¿A qué te refieres \"así\"?"
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "Como tú.",
+                "Vestida apropiadamente de rojo y blanco."
+            ]
+        },
+        "105_0": {
+            "lines": [
+                "Primero un gato y ahora un zorro...",
+                "¿Cuándo se ha convertido este sitio en un reino animal?"
+            ]
+        },
+        "107_0": {
+            "lines": [
+                "Ah, ¿entonces eres la humana que hizo que",
+                "Chen pasara un mal trago?"
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "¿Qué pasa si es así?"
+            ]
+        },
+        "109_0": {
+            "lines": [
+                "Chen es mi shikigami."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "Se ha recuperado y se ha vuelto más fuerte que antes."
+            ]
+        },
+        "111_0": {
+            "lines": [
+                "¿Se supone que tenía que ser fuerte...?"
+            ]
+        },
+        "112_0": {
+            "lines": [
+                "Espera, ¿es tu shikigami?",
+                "¿Acaso no eres tú una shikigami?"
+            ]
+        },
+        "113_0": {
+            "lines": [
+                "Lo soy."
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "Mi ama sigue durmiendo todavía."
+            ]
+        },
+        "115_0": {
+            "lines": [
+                "Ah. Entonces eres tú a la que busco."
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "¿Para qué?"
+            ]
+        },
+        "117_0": {
+            "lines": [
+                "Para reparar la barrera entre el Inframundo y nuestro mundo...",
+                "Y..."
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "Ahora que lo pienso..."
+            ]
+        },
+        "119_0": {
+            "lines": [
+                "Que ocurriera en primer lugar...",
+                "Tengo que hablar con tu ama."
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "Mi ama está hibernando."
+            ]
+        },
+        "121_0": {
+            "lines": [
+                "Despiértala."
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "También soy su guardiana."
+            ]
+        },
+        "123_0": {
+            "lines": [
+                "No tengo intención de permitir que",
+                "alborotadores molesten a mi ama."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Ahora encontrarás tu final",
+                "a manos de una fortalecida Chen..."
+            ]
+        },
+        "125_0": {
+            "lines": [
+                "Si te refieres a esa gata, acabo de cruzarme con ella..."
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "¿De verdad?",
+                "¿Qué tal te fue?"
+            ]
+        },
+        "127_0": {
+            "lines": [
+                "No fue nada especial."
+            ]
+        },
+        "128_0": {
+            "lines": [
+                "Bueno... seguía recuperándose..."
+            ]
+        },
+        "129_0": {
+            "lines": [
+                "¿No acabas de decir que había terminado de recuperarse?"
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "Parece que ahora tendré que",
+                "vengarme por ella."
+            ]
+        },
+        "131_0": {
+            "lines": [
+                "Justo lo que esperaba."
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "Derrotar a la shikigami y puede que su ama despierte..."
+            ]
+        },
+        "133_0": {
+            "lines": [
+                "Oye, que mi ama se despierta de vez en cuando..."
+            ]
+        },
+        "134_0": {
+            "lines": [
+                "Bueno, mientras tanto,",
+                "hay un obstáculo más inmediato."
+            ]
+        },
+        "135_0": {
+            "lines": [
+                "Estoy a un nivel muy diferente al de Chen.",
+                "Niveles, columnas, dígitos y colores."
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "¿Pensabas que un shikigami podría resistir a una miko?"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "¿Cómo han podido mis amuletos fallar contra ti?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Has hecho trampa, a que sí..."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "¿De qué me estás acusando?"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Pensaba claramente que sólo eras una humana."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "Soy humana."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "En cualquier caso, por todas las molestias,",
+                "me vas a presentar a tu ama."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Mi ama, Yukari, sigue durmiendo."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "Conque \"sigue\"...",
+                "¿Cuándo piensa despertarse?"
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "La primavera ya ha llegado en todo su esplendor."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Duerme durante todo el invierno y todo el día.",
+                "Todavía es muy pronto para que despierte."
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "Creo que ya casi está",
+                "anocheciendo..."
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "Para nosotros todavía no."
+            ]
+        },
+        "73_0": {
+            "lines": [
+                "Cuando los humanos se van a dormir es lo que",
+                "consideramos la noche de verdad."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "No importa, despiértala ahora."
+            ]
+        },
+        "75_0": {
+            "lines": [
+                "Pero si no está aquí..."
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "¿Entonces te he abatido para nada?"
+            ]
+        },
+        "77_0": {
+            "lines": [
+                "¿Y me han abatido por nada?"
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "¿Entonces por qué estás aquí?"
+            ]
+        },
+        "79_0": {
+            "lines": [
+                "Bien, veamos, altercados en el",
+                "Inframundo, la shikigami errante de alguien..."
+            ]
+        },
+        "80_0": {
+            "lines": [
+                "Ah sí, vengo a castigarte."
+            ]
+        },
+        "81_0": {
+            "lines": [
+                "Jooo..."
+            ]
+        }
+    },
+    "12": {
+        "40_0": {
+            "lines": [
+                "Por fin volvemos a encontrarnos."
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "¡Pero ten cuidado esta vez!"
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "¡Soy una shikigami completamente nueva!"
+            ]
+        },
+        "300_0": {
+            "lines": [
+                "Bueno, sólo han pasado diez días..."
+            ]
+        }
+    },
+    "10": {
+        "60_0": {
+            "lines": [
+                "Ahh..."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "¿Qué es todo este alboroto?"
+            ]
+        },
+        "61_1": {
+            "lines": [
+                "Hagamos esta noche los preparativos para",
+                "un banquete divertido..."
+            ]
+        },
+        "102_h1_0": {
+            "lines": [
+                "Shikigami de la youkai de los límites",
+                "Ran Yakumo"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "Ooh, veo una humana."
+            ]
+        },
+        "103_0": {
+            "lines": [
+                "¿Los preparativos para un banquete son divertidos?",
+                "Qué rara eres."
+            ]
+        },
+        "105_0": {
+            "lines": [
+                "Me refiero a",
+                "los preparativos para \"un banquete divertido\"."
+            ]
+        },
+        "107_0": {
+            "lines": [
+                "Bueno, quiero decir, hay gente que lo hace."
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "Ya sabes, pensar que los preparativos son la",
+                "parte más divertida."
+            ]
+        },
+        "109_0": {
+            "lines": [
+                "En cualquier caso, ¿por casualidad no habrás",
+                "visto a una gata por aquí?"
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "De hecho los preparativos son su trabajo."
+            ]
+        },
+        "111_0": {
+            "lines": [
+                "Si hablas de Chen entonces no, no la he visto."
+            ]
+        },
+        "112_0": {
+            "lines": [
+                "¿Así que fuiste tú?",
+                "La que le causó problemas a Chen."
+            ]
+        },
+        "113_0": {
+            "lines": [
+                "¡Qué grosera! Yo no causo ningún problema a nadie."
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "Sólo hice de ella algo horrible de contemplar."
+            ]
+        },
+        "115_0": {
+            "lines": [
+                "Chen es mi shikigami."
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "Aunque es una shikigami, no es poca cosa."
+            ]
+        },
+        "117_0": {
+            "lines": [
+                "¿Los shikigami usan shikigami?"
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "¿No es eso un poco canibalesco?"
+            ]
+        },
+        "119_0": {
+            "lines": [
+                "¡No me refiero a que me la coma!"
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "En cualquier caso, se supone entonces que tú,",
+                "una shikigami, debes tener un dueño."
+            ]
+        },
+        "121_0": {
+            "lines": [
+                "¿Acaso es Chen?"
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "De ninguna manera."
+            ]
+        },
+        "123_0": {
+            "lines": [
+                "Mi ama está profundamente dormida."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Alguien que pueda usar un \"shikigami que pueda usar",
+                "un shikigami\" debe ser realmente interesante."
+            ]
+        },
+        "125_0": {
+            "lines": [
+                "¿Te importa si hablo con tu ama?"
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "También soy su guardiana."
+            ]
+        },
+        "127_0": {
+            "lines": [
+                "Y como tal no tengo intenciones de permitir que alguien",
+                "que haga que mi shikigami quede horrible moleste a mi ama."
+            ]
+        },
+        "128_0": {
+            "lines": [
+                "Oh, entiendo."
+            ]
+        },
+        "129_0": {
+            "lines": [
+                "Entonces lo único que tengo que hacer es que ni",
+                "siquiera sea posible encontrarte."
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "No veo qué es lo que entiendes."
+            ]
+        },
+        "131_0": {
+            "lines": [
+                "Muy pronto ni siquiera será posible",
+                "encontrarte."
+            ]
+        }
+    },
+    "11": {
+        "60_0": {
+            "lines": [
+                "Muy bien, muéstrate, youkai animal."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Sí que es fuerte..."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "No me extraña que Chen no tuviera ninguna oportunidad",
+                "contra ella."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "¿Dónde está tu ama?"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Mi ama, Yukari, sigue durmiendo."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "¿Eh?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "¿No se despierta ni aunque su shikigami",
+                "se encuentre en problemas?"
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Despiértala."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "Pero si no está aquí..."
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "¿Entonces eres del tipo de larga distancia?"
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Aunque tienes bastante poder para ser de ese tipo."
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "¿De qué estás hablando?"
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "Llevo siendo una shikigami desde hace mucho tiempo."
+            ]
+        },
+        "73_0": {
+            "lines": [
+                "Mi poder sobrepasa con creces el de un youkai normal."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Muy bien, entiendo entonces que",
+                "eres claramente inútil."
+            ]
+        },
+        "75_0": {
+            "lines": [
+                "¿Qué tengo que hacer para despertarla?"
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "Lo hará de noche."
+            ]
+        },
+        "77_0": {
+            "lines": [
+                "Aunque incluso para mí es raro verla despierta."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "Entonces sólo tengo que esperar a que anochezca..."
+            ]
+        },
+        "79_0": {
+            "lines": [
+                "Bueno, puedes volver a tus preparaciones",
+                "para el banquete divertido."
+            ]
+        },
+        "80_0": {
+            "lines": [
+                "Jooo..."
+            ]
+        }
+    },
+    "22": {
+        "40_0": {
+            "lines": [
+                "Por fin volvemos a encontrarnos."
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "¡Pero ten cuidado esta vez!"
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "¡Soy una shikigami completamente nueva!"
+            ]
+        },
+        "300_0": {
+            "lines": [
+                "Creo haber visto a esta gata antes. ¿Acaso has muerto?"
+            ]
+        }
+    },
+    "20": {
+        "60_0": {
+            "lines": [
+                "Cada vez que miro,"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "este jardín es cada vez más grande y bello."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Huele a humano..."
+            ]
+        },
+        "103_h1_0": {
+            "lines": [
+                "Shikigami de la youkai de los límites",
+                "Ran Yakumo"
+            ]
+        },
+        "103_0": {
+            "lines": [
+                "Me equivoqué."
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "No te has equivocado."
+            ]
+        },
+        "105_0": {
+            "lines": [
+                "Pareces estar viva, pero igual me equivoco."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "¿Por casualidad estás muerta?"
+            ]
+        },
+        "107_0": {
+            "lines": [
+                "Las apariencias son suficientes para juzgar."
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "Y aparentemente eres un zorro."
+            ]
+        },
+        "109_0": {
+            "lines": [
+                "Y aparentemente eres un perro."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "No juzgues algo sólo por su apariencia."
+            ]
+        },
+        "111_0": {
+            "lines": [
+                "Tampoco me confundas con una simple bestia."
+            ]
+        },
+        "112_0": {
+            "lines": [
+                "Soy la shikigami de una poderosa ama."
+            ]
+        },
+        "113_0": {
+            "lines": [
+                "Y como tal, mi poder sobrepasa con creces el",
+                "de cualquier youkai que hayas visto."
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "Sin mencionar el de cualquier humano o perro."
+            ]
+        },
+        "115_0": {
+            "lines": [
+                "No hay mucha diferencia entre shikigami,",
+                "gatos y zorros."
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "¿Y dónde has visto a un gato?"
+            ]
+        },
+        "117_0": {
+            "lines": [
+                "Más abajo, cerca de las escaleras."
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "¿Qué quieres decir con este cambio de tema?"
+            ]
+        },
+        "119_0": {
+            "lines": [
+                "Ahora mismo veo a un zorro cerca de las escaleras."
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "Este lugar está lleno de animales."
+            ]
+        },
+        "121_0": {
+            "lines": [
+                "¿Entonces te has cruzado con Chen?"
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "He estado buscándola."
+            ]
+        },
+        "123_0": {
+            "lines": [
+                "Al igual que los gatos, es muy nerviosa,",
+                "y ahora ha desaparecido."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Lo lamento."
+            ]
+        },
+        "125_0": {
+            "lines": [
+                "Esa gata se fue a las montañas a lavar la ropa."
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "Je, ¿de verdad?"
+            ]
+        },
+        "127_0": {
+            "lines": [
+                "Entonces tal vez deba yo volver a las colinas."
+            ]
+        },
+        "128_0": {
+            "lines": [
+                "Un zorro va a las colinas a morir."
+            ]
+        },
+        "129_0": {
+            "lines": [
+                "Dado que este lugar es el Inframundo,",
+                "será una buena tumba para ti."
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "Ja, apuesto a que fuiste",
+                "tú la que atormentaste a Chen."
+            ]
+        },
+        "131_0": {
+            "lines": [
+                "Chen es mi shikigami,",
+                "por lo que debo vengarme."
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "¿Es la shikigami de la shikigami de una youkai?",
+                "Me imaginaba que sería algo así..."
+            ]
+        }
+    },
+    "21": {
+        "60_0": {
+            "lines": [
+                "Muy bien, vuelve a las colinas o a donde sea."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Es fuerte..."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Es probable que Chen esté también",
+                "deprimida."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Por lo pronto ya me he encargado",
+                "de estas molestias."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Pero creo que hay un responsable detrás de todo esto."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "Ama Yukari..."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Esto es más de lo que puedo manejar."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "¿Más molestias de las que puedes causar?"
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "¿Qué es exactamente lo que está haciendo tu ama"
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "dejando a su shikigami correteando",
+                "por ahí?"
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Dormir."
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "Pues despiértala."
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "Tengo que volver a las colinas para despertarla."
+            ]
+        },
+        "73_0": {
+            "lines": [
+                "Así que no está por aquí..."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Conque la propietaria de una shikigami tan molesta."
+            ]
+        },
+        "75_0": {
+            "lines": [
+                "Apuesto a que es mucho más molesta que tú."
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "...Eso no lo niego."
+            ]
+        },
+        "77_0": {
+            "lines": [
+                "En cualquier caso, volveré cuando esté despierta."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "Mientras tanto, despiértala correctamente."
+            ]
+        },
+        "79_0": {
+            "lines": [
+                "Lo que dices no tiene sentido."
+            ]
+        },
+        "80_0": {
+            "lines": [
+                "Simplemente hazlo."
+            ]
+        },
+        "81_0": {
+            "lines": [
+                "Jooo..."
+            ]
+        }
+    }
+}

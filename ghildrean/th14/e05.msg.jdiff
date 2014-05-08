@@ -1,0 +1,156 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Sakuya  $Remilia  >La Mansión del Demonio Escarlata."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "Una mansión en el Lago de Niebla donde reside una vampiresa."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<r$Sakuya  >\"...Así que esta espada embrujada era de la Issun-Boushi.\""
+            ]
+        },
+        "3_1": {
+            "lines": [
+                "La espada brilló de forma siniestra."
+            ]
+        },
+        "4_1": {
+            "lines": [
+                "<r$Sakuya  >\"No, no debo. Algo malo llena mi corazón.\""
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<r$Sakuya  >\"..."
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<l$> ¿Hay algo por aquí que pueda cortar?"
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<l$> Un hada sería suficiente.\""
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<r$Remilia  >\"¿Oh? ¿Qué estás haciendo?\""
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<r$Sakuya  >\"Esta espada embrujada parece querer sangre,",
+                "<l$> así que quería cortar algo...\""
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<r$Remilia  >\"Eh...\""
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<r$Remilia  >\"Ah, sí, ¿qué ha pasado con los que causaban revuelo en el lago?\""
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "<r$Sakuya  >\"Los exterminé hace tiempo."
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<l$> Incluso a todos los enemigos que vinieron detrás.\""
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<r$Remilia  >\"Hmm. Está bien.\""
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<r$Sakuya  >\"¿Qué os parece?"
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<l$> ¿Queréis probar cómo se siente al cortar con esta espada?\""
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "<r$Remilia  >\"¿Es divertido?\""
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "<r$Sakuya  >\"Es posible, sí. La espada se deleita con ello.\""
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "<r$Remilia  >\"Vaya, Sakuya, te has vuelto muy atrevida... Me alegro.\""
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "La violenta espada embrujada perteneció una vez a la Issun-Boushi."
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "Sakuya no se la devolvió, sino que se la llevó de vuelta a casa."
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "Sabia que emanaba un poder mágico embrujado,",
+                "pero aun así no podía separarse de ella."
+            ]
+        },
+        "23_0": {
+            "lines": [
+                "La espada seguirá cortando youkai durante un tiempo."
+            ]
+        },
+        "24_0": {
+            "lines": [
+                "Pero la señora de la mansión estaba bastante satisfecha con el espectáculo."
+            ]
+        },
+        "25_1": {
+            "lines": [
+                "<c$Final No. 05 — Locura refinada y educada.$>"
+            ]
+        },
+        "26_0": {
+            "lines": [
+                "<c$¡Completado! ¡Felicidades! ¡Eres increíble!$>"
+            ]
+        },
+        "3_0": {
+            "lines": [
+                " "
+            ]
+        },
+        "4_0": {
+            "lines": [
+                " "
+            ]
+        },
+        "25_0": {
+            "lines": [
+                " "
+            ]
+        }
+    }
+}

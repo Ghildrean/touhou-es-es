@@ -1,0 +1,41 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Reimu  >El santuario Hakurei."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "El espíritu de Reimu fue aplastado."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<r$Reimu  >\"¡Cielos!",
+                "<l$> Sin mi vara de purificación, esto es terrible...\""
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "Reimu fue aplastada por el poder del Mazo de los Milagros."
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "¡Debe practicar lo suficiente como para no depender de su vara!"
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "　",
+                "<c$Final No. 08 — ¡La práctica es la clave!$>"
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<c$¡Intenta terminar sin continuar!$>"
+            ]
+        }
+    }
+}

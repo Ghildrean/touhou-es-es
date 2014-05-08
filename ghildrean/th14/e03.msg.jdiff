@@ -1,0 +1,137 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Marisa  $Seija  >El Bosque de Magia, donde el miasma satura el aire."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "Aquí es donde la residencia de Marisa se encuentra."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<r$Marisa  >\"Jo jo jo... Conque darle la vuelta al mundo.\""
+            ]
+        },
+        "3_1": {
+            "lines": [
+                "El mini-Hakkero emitió una luz negra."
+            ]
+        },
+        "4_1": {
+            "lines": [
+                "<r$Marisa  >\"No suena tan mal...\""
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<r$Marisa  >\"La era en la que los humanos temen a los youkai ha terminado."
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<l$> A partir de ahora, los humanos estarán al mando."
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<l$> ¡No temeré a nada mientras tenga este mini-Hakkero!\""
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<r$Seija  >\"Ahora, humana, ¡úsalo como te plazca!\""
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<r$Marisa  >\"¡No necesitas repetírmelo dos veces!"
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<l$> Aunque el consumo no es tan bueno...\""
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<r$Seija  >\"No temas."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "<l$> Tu mini-Hakkero tiene la protección del tesoro.\""
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<r$Seija  >\"Siempre puede recibir el poder de los sueños.\""
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<r$Marisa  >\"Hmm, entonces voy a probarlo.\""
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<r$Seija  >\"Je je je... He hecho una poderosa aliada."
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<l$> ¡Darle la vuelta al mundo es sólo cuestión de tiempo!\""
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "El mini-Hakkero se convirtió en un tsukumogami gracias al poder del Mazo de los Milagros."
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "Su poder amplifica la ferocidad, y el contacto prolongado de Marisa",
+                "con el objeto hizo que perdiera el sentido común."
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "Seija siguió buscando la colaboración de los tsukumogami,",
+                "humanos como Marisa y de los youkai."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "Pero el poder del mazo no era infinito."
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "Seija todavía no sabía que cuando la magia se agotara,",
+                "se enfrentaría a sus consecuencias."
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "<c$Final No. 03 — ¿Contra quién se rebelará la rebelde Marisa?$>"
+            ]
+        },
+        "23_0": {
+            "lines": [
+                "<l$> <c$¡Completado! ¡Felicidades! ¡Eres increíble!$>"
+            ]
+        },
+        "3_0": {
+            "lines": [
+                " "
+            ]
+        },
+        "4_0": {
+            "lines": [
+                " "
+            ]
+        }
+    }
+}

@@ -1,0 +1,156 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Marisa  $Reimu  $Shinmyoumaru  >El santuario Hakurei."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "Un santuario en la frontera oriental de Gensokyo."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<r$Marisa  >\"Así que tú también estabas preocupada.\""
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<r$Reimu  >\"¿Pre-preocupada? ¿Qué...?"
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<l$> Sólo pensaba que era raro.\""
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<r$Marisa  >\"Sí, bueno, es raro que las cosas se muevan por su cuenta.\""
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<r$Marisa  >\"Por supuesto, no usaste tu vara de purificación, ¿verdad?\""
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<r$Reimu  >\"Po-por supuesto que no."
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<l$> ¿Por qué iba a usar una herramienta tsukumogami?\""
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<r$Marisa  >\"Bueno, averigüé cómo devolver las cosas a la normalidad.\""
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<r$Reimu  >\"¿De verdad?\""
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<r$Reimu  >\"¿Qué es eso?\""
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "<r$Marisa  >\"El Mazo de los Milagros."
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<l$> Del que se dice que es capaz de conceder cualquier deseo.\""
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<r$Reimu  >\"No puede ser...\""
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<r$Marisa  >\"Ah, aquí está su antigua dueña.\""
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<r$Shinmyoumaru  >(Mm... Mm...)"
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "<r$Reimu  >\"Me rindo. ¿Cómo has conseguido algo así...?\""
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "<r$Marisa  >\"Esta chica es la culpable."
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "<l$> El Mazo de los Milagros es un nombre muy bonito, pero..."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "<l$> El hecho es que es otra herramienta de los oni."
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "<l$> Es una herramienta maldita.\""
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "Las herramientas estaban dando guerra debido a la magia del Mazo de los Milagros."
+            ]
+        },
+        "23_0": {
+            "lines": [
+                "No concedió a Marisa sus deseos, pero devolvió las herramientas",
+                "a la normalidad."
+            ]
+        },
+        "24_0": {
+            "lines": [
+                "El poder mágico maldito puede filtrarse en las grietas del corazón."
+            ]
+        },
+        "25_0": {
+            "lines": [
+                "Como usuaria de la magia, Marisa lo sabía a la perfección."
+            ]
+        },
+        "26_0": {
+            "lines": [
+                "Si se dejaba libre, el mundo podía sufrir",
+                "un vuelco como decía la Issun-Boushi."
+            ]
+        },
+        "27_0": {
+            "lines": [
+                "Marisa decidió reunir el poder mágico del mazo."
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "<c$Final No. 04 — Los oni tienen muchas herramientas.$>"
+            ]
+        },
+        "29_0": {
+            "lines": [
+                "<l$> <c$¡Completado! ¡Felicidades! ¡Eres increíble!$>"
+            ]
+        }
+    }
+}

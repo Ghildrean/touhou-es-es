@@ -1,0 +1,215 @@
+{
+    "0": {
+        "60_0": {
+            "lines": [
+                "¿No hay ventanas en esta casa?"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "¿Y de verdad parecía tan",
+                "grande desde el exterior?"
+            ]
+        },
+        "92_0": {
+            "lines": [
+                "¡Tú, roja y blanca!"
+            ]
+        },
+        "93_0": {
+            "lines": [
+                "No corretees por mi estudio."
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "¿Estudio? (¿Roja y blanca?)"
+            ]
+        },
+        "95_h1_0": {
+            "lines": [
+                "La chica de conocimientos y sombras",
+                "Patchouli Knowledge"
+            ]
+        },
+        "95_0": {
+            "lines": [
+                "Estos libros valen más que todas las donaciones que",
+                "tu santuario ha recibido en los últimos cinco años."
+            ]
+        },
+        "96_0": {
+            "lines": [
+                "Mi santuario rara vez recibe visitas durante el año."
+            ]
+        },
+        "97_0": {
+            "lines": [
+                "Oh. Entonces supongo que no valen nada."
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "En cualquier caso, ¿de verdad puedes",
+                "leer en una habitación tan oscura?"
+            ]
+        },
+        "100_0": {
+            "lines": [
+                "A diferencia de ti,",
+                "yo no tengo ceguera nocturna."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "¡Te digo que",
+                "no tengo ceguera nocturna!"
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "Vale, lo que quería decir es si",
+                "eres la duena de esta mansión."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "¿Qué necesitas de la señora?"
+            ]
+        },
+        "107_0": {
+            "lines": [
+                "Hay demasiada niebla ahí fuera, y es un problema."
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "Entonces no puedo de ninguna manera",
+                "permitir que veas a la señora."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "¡No pienso dejar que me detengas!"
+            ]
+        },
+        "111_0": {
+            "lines": [
+                "Por cierto... ¿quién eres tú?"
+            ]
+        }
+    },
+    "1": {
+        "61_0": {
+            "lines": [
+                "De verdad, ¿esta mansión parecía",
+                "tan grande desde el exterior?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "En esta mansión hay alguien a quien le",
+                "gusta jugar con el espacio y el tiempo."
+            ]
+        }
+    },
+    "10": {
+        "60_0": {
+            "lines": [
+                "Increíble, cuántos libros."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Me llevaré más tarde unos cuantos en secreto."
+            ]
+        },
+        "91_0": {
+            "lines": [
+                "¡No robes ningún libro!"
+            ]
+        },
+        "92_0": {
+            "lines": [
+                "Pienso llevármelos."
+            ]
+        },
+        "94_h1_0": {
+            "lines": [
+                "La chica de conocimientos y sombras",
+                "Patchouli Knowledge"
+            ]
+        },
+        "93_0": {
+            "lines": [
+                "Veamos... Cómo deshacerse de",
+                "la cosa negra frente a mí..."
+            ]
+        },
+        "95_0": {
+            "lines": [
+                "(¿De verdad está eso escrito ahí?)"
+            ]
+        },
+        "96_0": {
+            "lines": [
+                "Hmm, mi vista ha empeorado últimamente."
+            ]
+        },
+        "97_0": {
+            "lines": [
+                "¿No será porque esta habitación es muy oscura?"
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "Puede que tenga deficiencia de hierro."
+            ]
+        },
+        "99_0": {
+            "lines": [
+                "En todo caso, será de vitamina A."
+            ]
+        },
+        "100_0": {
+            "lines": [
+                "¿Y tú qué?"
+            ]
+        },
+        "101_0": {
+            "lines": [
+                "Yo tengo suficiente. De muchas cosas."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "Entonces me serviré yo misma."
+            ]
+        },
+        "103_0": {
+            "lines": [
+                "Estoy muy sabrosa."
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "Veamos... Método sencillo para eliminar",
+                "fácilmente porciones innecesarias de comida..."
+            ]
+        }
+    },
+    "11": {
+        "61_0": {
+            "lines": [
+                "Parece que la magia es lo tuyo.",
+                "¿Te guardas algo más bajo la manga?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "*snif snif* ¡No puedo terminar de",
+                "recitar mis conjuros debido a mi asma!"
+            ]
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Sakuya  >La Mansión del Demonio Escarlata."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "El espíritu de Sakuya estaba alterado."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<r$Sakuya  >\"Ahh... Quería cortar algunos más."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "¿Puede el Mazo de los Milagros conceder ese deseo...?\""
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "Se vio radicalmente afectada por la espada embrujada."
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "¡¿Cambiará su trabajo para ser la sirvienta de la Issun-Boushi?!"
+            ]
+        },
+        "6_1": {
+            "lines": [
+                "<c$Final No. 11 — ¡Despierta, Sakuya!$>"
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<c$¡Intenta terminar sin continuar!$>"
+            ]
+        },
+        "6_0": {
+            "lines": [
+                " "
+            ]
+        }
+    }
+}

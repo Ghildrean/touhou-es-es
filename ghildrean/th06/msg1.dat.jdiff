@@ -1,0 +1,185 @@
+{
+    "0": {
+        "60_0": {
+            "lines": [
+                "Ha pasado mucho tiempo desde mi último trabajo."
+            ]
+        },
+        "60_1": {
+            "lines": [
+                "Qué agradable."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "No hay muchos espíritus malignos durante el día,",
+                "así que pruebo suerte durante la noche, pero..."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Está tan oscuro que no sé",
+                "por dónde debo ir."
+            ]
+        },
+        "83_0": {
+            "lines": [
+                "Aun así..."
+            ]
+        },
+        "84_0": {
+            "lines": [
+                "El patio del santuario es muy romántico durante la noche.",
+                "(← despreocupada)"
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Es cierto...",
+                "¡Con los fantasmas apareciendo también, es maravilloso!"
+            ]
+        },
+        "135_0": {
+            "lines": [
+                "Eh,",
+                "¿tú quién eres?"
+            ]
+        },
+        "135_h1_0": {
+            "lines": [
+                "La youkai del crepúsculo",
+                "Rumia"
+            ]
+        },
+        "136_0": {
+            "lines": [
+                "¿No acabamos de vernos hace unos momentos?",
+                "¿Acaso tienes ceguera nocturna?"
+            ]
+        },
+        "137_0": {
+            "lines": [
+                "Los humanos no pueden ver",
+                "muy bien en la oscuridad."
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "¿Oh? Pero creo haber visto a",
+                "gente que sólo trabaja de noche."
+            ]
+        },
+        "139_0": {
+            "lines": [
+                "No me importa que los",
+                "uses como cena."
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "¿Oh? ¿Eso es cierto?"
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "Que sepas que estás en mi camino."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "¿La persona que está ante mí es comestible?"
+            ]
+        },
+        "143_0": {
+            "lines": [
+                "¿Alguna vez has oído el refrán",
+                "\"medicamento amargo cura la enfermedad\"?"
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "Por supuesto, no podrás saber si es amargo o no"
+            ]
+        },
+        "60_1": {
+            "lines": [
+                "hasta que no lo pruebes por ti misma."
+            ]
+        }
+    },
+    "10": {
+        "60_0": {
+            "lines": [
+                "Esta sensación, es como..."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Conociéndola, seguro que diría",
+                "\"Qué agradable\"."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Aunque yo odio la noche."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "A estas horas sólo hay bichos raros."
+            ]
+        },
+        "103_0": {
+            "lines": [
+                "¡¿A quién llamas bicho raro?!"
+            ]
+        },
+        "104_h1_0": {
+            "lines": [
+                "La youkai del crepúsculo",
+                "Rumia"
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "Nadie ha dicho nada de ti."
+            ]
+        },
+        "105_0": {
+            "lines": [
+                "Claro, por supuesto que no."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "Oye, ¿por qué estiras los brazos de esa manera?"
+            ]
+        },
+        "107_0": {
+            "lines": [
+                "¿Acaso no parece decir",
+                "\"El santo fue crucificado en la cruz\"?"
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "A mí más bien me parece",
+                "\"La humanidad ha adoptado el sistema decimal\"."
+            ]
+        }
+    },
+    "11": {
+        "60_0": {
+            "lines": [
+                "Ni siquiera es una humana."
+            ]
+        },
+        "60_1": {
+            "lines": [
+                "Me pregunto si de verdad tiene diez dedos."
+            ]
+        }
+    }
+}

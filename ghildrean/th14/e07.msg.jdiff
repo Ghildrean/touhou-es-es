@@ -1,0 +1,45 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Reimu  >El santuario Hakurei."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "El espíritu de Reimu estaba alterado."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<r$Reimu  >\"Agh, qué implacable...",
+                "<l$> ¿Debería unirme a la resistencia?\""
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "Reimu fue aplastada por el poder del Mazo de los Milagros."
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "Pero querer unirte a la resistencia..."
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "Reimu, ¿quieres enemistarte con todos los humanos y youkai?"
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<c$Final No. 07 — ¡No puedes rendirte!$>"
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<c$¡Intenta terminar sin continuar!$>"
+            ]
+        }
+    }
+}

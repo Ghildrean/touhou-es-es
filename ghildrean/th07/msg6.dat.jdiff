@@ -1,0 +1,746 @@
+{
+    "2": {
+        "40_0": {
+            "lines": [
+                "Da un paso más..."
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "¡Y no me importará lo más mínimo si la joven señora te mata!"
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "¿No eres tú a la que matará?"
+            ]
+        }
+    },
+    "0": {
+        "60_0": {
+            "lines": [
+                "¡Uuff!"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "¡Estoy harta de tantos fantasmas!"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Entrar egoístamente en el jardín de alguien"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "sólo para quejarse."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "¡¿Eh?!"
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "No es normal."
+            ]
+        },
+        "195_h1_0": {
+            "lines": [
+                "Chica espectral de la torre del Inframundo",
+                "Yuyuko Saigyouji"
+            ]
+        },
+        "195_0": {
+            "lines": [
+                "Aunque sí que es cierto que mi casa está llena de fantasmas."
+            ]
+        },
+        "196_0": {
+            "lines": [
+                "¿Me recuerdas qué asuntos tenía yo aquí?",
+                "Ese encantador árbol de cerezo me ha distraído."
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "¿Has venido al hanami?"
+            ]
+        },
+        "199_0": {
+            "lines": [
+                "Tenemos algunos sitios libres."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "Oh, ¿de verdad?",
+                "Entonces vayamos a verlas."
+            ]
+        },
+        "202_0": {
+            "lines": [
+                "Sigues sin estar invitada, querida."
+            ]
+        },
+        "203_0": {
+            "lines": [
+                "Cierto, cierto, ahora recuerdo."
+            ]
+        },
+        "204_0": {
+            "lines": [
+                "¿Qué recuerdas?"
+            ]
+        },
+        "205_0": {
+            "lines": [
+                "Prefiero tener una fiesta del hanami en mi santuario."
+            ]
+        },
+        "206_0": {
+            "lines": [
+                "..."
+            ]
+        },
+        "207_0": {
+            "lines": [
+                "Aunque es cierto que las flores de aquí son muy hermosas,"
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "¿te importaría devolver la primavera que has robado?"
+            ]
+        },
+        "209_0": {
+            "lines": [
+                "Sólo un poco más."
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "Un poco más y el Saigyou Ayakashi",
+                "estará en plena floración..."
+            ]
+        },
+        "211_0": {
+            "lines": [
+                "¿Pero qué es el Saigyou Ayakashi?"
+            ]
+        },
+        "212_0": {
+            "lines": [
+                "Nuestro árbol de cerezo youkai."
+            ]
+        },
+        "213_0": {
+            "lines": [
+                "Todavía no tenemos suficiente primavera como",
+                "para romper el sello del árbol."
+            ]
+        },
+        "214_0": {
+            "lines": [
+                "Se ha sellado de forma intencionada,"
+            ]
+        },
+        "215_0": {
+            "lines": [
+                "por lo que es mejor no jugar con eso, ¿cierto?"
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "Además, no sabemos lo que está sellado ahí."
+            ]
+        },
+        "217_0": {
+            "lines": [
+                "¿Cómo puedes decir eso después de romper nuestra barrera?"
+            ]
+        },
+        "218_0": {
+            "lines": [
+                "Bueno, no importa. Entonces,",
+                "¿qué ocurrirá si se rompe el sello?"
+            ]
+        },
+        "219_0": {
+            "lines": [
+                "Ocurrirá una floración perfecta."
+            ]
+        },
+        "220_0": {
+            "lines": [
+                "..."
+            ]
+        },
+        "221_0": {
+            "lines": [
+                "Y entonces, alguien será revivido."
+            ]
+        },
+        "222_0": {
+            "lines": [
+                "Revivir a la gente por diversión no es bueno.",
+                "Y como he dicho, no sabemos quién revivirá."
+            ]
+        },
+        "223_0": {
+            "lines": [
+                "Oh, puedo invitar a humanos y youkai a su",
+                "muerte por diversión."
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "Ser capaz de llevar a la muerte no significa",
+                "que sepas algo sobre traer a la vida."
+            ]
+        },
+        "225_0": {
+            "lines": [
+                "¿Qué pasa si revives algo realmente malo?"
+            ]
+        },
+        "226_0": {
+            "lines": [
+                "No lo sabremos hasta que no lo intentemos."
+            ]
+        },
+        "227_0": {
+            "lines": [
+                "En cualquier caso, chica no invitada,"
+            ]
+        },
+        "228_0": {
+            "lines": [
+                "en este momento estar aquí es lo mismo que estar muerta."
+            ]
+        },
+        "229_0": {
+            "lines": [
+                "O dicho de forma más precisa, estar aquí",
+                "significa que ya estás muerta."
+            ]
+        },
+        "230_0": {
+            "lines": [
+                "Incluso estando muerta puedo ir al hanami."
+            ]
+        },
+        "231_0": {
+            "lines": [
+                "Si pudiera tener simplemente esa pizca de primavera",
+                "que traes contigo,"
+            ]
+        },
+        "232_0": {
+            "lines": [
+                "podría ver flores del cerezo de verdad...",
+                "con ese alguien."
+            ]
+        },
+        "233_0": {
+            "lines": [
+                "Muy bien, se acabaron las bromas."
+            ]
+        },
+        "234_0": {
+            "lines": [
+                "Ahora recuperaré la primavera de Gensokyo."
+            ]
+        },
+        "235_0": {
+            "lines": [
+                "Deberías haber dicho eso desde el principio."
+            ]
+        },
+        "236_0": {
+            "lines": [
+                "Fue la segunda cosa que dije desde el principio."
+            ]
+        },
+        "237_0": {
+            "lines": [
+                "La conclusión es la parte más importante."
+            ]
+        },
+        "238_0": {
+            "lines": [
+                "¡Regresa bajo las flores, espectro de primavera!",
+                "¡Duerme bajo las flores, mariposa roja y blanca!"
+            ]
+        }
+    },
+    "12": {
+        "40_0": {
+            "lines": [
+                "Da un paso más..."
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "¡Y no me importará lo más mínimo si la joven señora te mata!"
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "Bueno, si no sigo adelante,",
+                "¿cómo voy a recuperar la primavera?"
+            ]
+        }
+    },
+    "10": {
+        "60_0": {
+            "lines": [
+                "Por donde quiera que pase,"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "está todo en plena floración."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Todavía no."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Ocurrirá dentro de poco."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "¡Ah!"
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "Con un poco más de primavera..."
+            ]
+        },
+        "196_h1_0": {
+            "lines": [
+                "Chica espectral de la torre del Inframundo",
+                "Yuyuko Saigyouji"
+            ]
+        },
+        "195_0": {
+            "lines": [
+                "Incluso el Saigyou Ayakashi",
+                "alcanzará una floración perfecta."
+            ]
+        },
+        "197_0": {
+            "lines": [
+                "Aquí la traigo.",
+                "La última pizca de primavera."
+            ]
+        },
+        "199_0": {
+            "lines": [
+                "Oh, ¿entonces quieres tomar el lugar el Youmu?"
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "Paso, no quiero tener que vivir el resto",
+                "de mi vida en un lugar como éste."
+            ]
+        },
+        "202_0": {
+            "lines": [
+                "¿Qué te parece un puesto temporal?"
+            ]
+        },
+        "203_0": {
+            "lines": [
+                "¿Me estás escuchando?"
+            ]
+        },
+        "204_0": {
+            "lines": [
+                "Lo estoy."
+            ]
+        },
+        "205_0": {
+            "lines": [
+                "Estás diciendo que cuando mueras",
+                "quieres hacerlo bajo un árbol de cerezo."
+            ]
+        },
+        "206_0": {
+            "lines": [
+                "No sé de qué estás hablando."
+            ]
+        },
+        "207_0": {
+            "lines": [
+                "No importa, lo único que quiero es liberar",
+                "el sello del Saigyou Ayakashi."
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "Bueno, pues hazlo.",
+                "¿Pasará algo bueno?"
+            ]
+        },
+        "209_0": {
+            "lines": [
+                "Quién sabe."
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "Entonces no pienso dejarlo tan fácilmente."
+            ]
+        },
+        "211_0": {
+            "lines": [
+                "¿Qué pasa con el hanami?"
+            ]
+        },
+        "212_0": {
+            "lines": [
+                "Será una fiesta animada e interesante."
+            ]
+        },
+        "213_0": {
+            "lines": [
+                "He derrotado a unos cuantos elementos",
+                "animados e interesantes antes..."
+            ]
+        },
+        "214_0": {
+            "lines": [
+                "¿Acaso no son los árboles de cerezo del Inframundo",
+                "lo bastante tentadores para los ojos humanos?"
+            ]
+        },
+        "215_0": {
+            "lines": [
+                "Tal vez si este lugar no apestara a muerte..."
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "¿Acaso hueles con tus ojos?"
+            ]
+        },
+        "217_0": {
+            "lines": [
+                "No exactamente."
+            ]
+        },
+        "218_0": {
+            "lines": [
+                "Vaya forma más aburrida de empezar la primavera..."
+            ]
+        },
+        "219_0": {
+            "lines": [
+                "Qué grosera."
+            ]
+        },
+        "220_0": {
+            "lines": [
+                "La primavera que percibes aquí no es más",
+                "que la primavera de tu Gensokyo."
+            ]
+        },
+        "221_0": {
+            "lines": [
+                "Eso es ser grosera."
+            ]
+        },
+        "222_0": {
+            "lines": [
+                "¡¿Qué tipo de persona puede oler con sus ojos?!"
+            ]
+        },
+        "223_0": {
+            "lines": [
+                "Vas retrasada en la conversación."
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "El sonido viaja lentamente en el Inframundo."
+            ]
+        },
+        "225_0": {
+            "lines": [
+                "Un lugar con una velocidad de sonido tan lenta",
+                "no se merece una primavera tan agradable."
+            ]
+        },
+        "226_0": {
+            "lines": [
+                "Qué lástima."
+            ]
+        },
+        "227_0": {
+            "lines": [
+                "Aumentaré el ritmo y",
+                "podremos seguir con la conversación."
+            ]
+        },
+        "228_0": {
+            "lines": [
+                "Puedes hacer eso después..."
+            ]
+        },
+        "229_0": {
+            "lines": [
+                "Sólo será un momento..."
+            ]
+        },
+        "230_0": {
+            "lines": [
+                "¡Me llevaré mi aburrida primavera, chica cadáver!",
+                "¡Me llevaré tu patética primavera, bruja negra!"
+            ]
+        }
+    },
+    "22": {
+        "40_0": {
+            "lines": [
+                "Da un paso más..."
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "¡Y no me importará lo más mínimo si la joven señora te mata!"
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "Cállate ya, fallecida."
+            ]
+        }
+    },
+    "20": {
+        "60_0": {
+            "lines": [
+                "En este mundo..."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "¿no hay un refrán que dice \"los muertos no hablan\"?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "¿Oh?"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Por supuesto que no hay un refrán así aquí."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "¡Ah!"
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "El Inframundo siempre es"
+            ]
+        },
+        "195_h1_0": {
+            "lines": [
+                "Chica espectral de la torre del Inframundo",
+                "Yuyuko Saigyouji"
+            ]
+        },
+        "195_0": {
+            "lines": [
+                "animado y precioso."
+            ]
+        },
+        "196_0": {
+            "lines": [
+                "¿No será precioso porque os hayáis apropiado",
+                "de la primavera de Gensokyo?"
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "Vaya, ¿no te gusta la primavera?"
+            ]
+        },
+        "199_0": {
+            "lines": [
+                "Estoy furiosa porque me encanta."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "Así que, ¿por qué la habéis robado?"
+            ]
+        },
+        "201_0": {
+            "lines": [
+                "Me llevé cualquier primavera que fuera primavera."
+            ]
+        },
+        "202_0": {
+            "lines": [
+                "Y aun así, lo que tenemos no es suficiente."
+            ]
+        },
+        "203_0": {
+            "lines": [
+                "...La chica muerta de antes",
+                "quería que luchara contigo."
+            ]
+        },
+        "204_0": {
+            "lines": [
+                "Pronto, el último árbol de cerezo, el",
+                "Saigyou Ayakashi, florecerá."
+            ]
+        },
+        "205_0": {
+            "lines": [
+                "Después de eso todo se habrá solucionado."
+            ]
+        },
+        "206_0": {
+            "lines": [
+                "Ese árbol de cerezo, ¿no se está marchitando?"
+            ]
+        },
+        "207_0": {
+            "lines": [
+                "Está a punto de florecer."
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "Youmu debe haber pensado que la pizca de primavera",
+                "que llevas sería suficiente."
+            ]
+        },
+        "209_0": {
+            "lines": [
+                "No me interesa."
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "Me ha costado un día llegar hasta aquí y tardaré otro",
+                "más en volver. Acabemos de una vez con esto."
+            ]
+        },
+        "211_0": {
+            "lines": [
+                "Bueno, te dejaré volver a casa ahora mismo."
+            ]
+        },
+        "212_0": {
+            "lines": [
+                "Se supone que no deberías estar aquí todavía."
+            ]
+        },
+        "213_0": {
+            "lines": [
+                "No he venido hasta aquí sólo para que me hagan volver."
+            ]
+        },
+        "214_0": {
+            "lines": [
+                "Devuelve la primavera de Gensokyo."
+            ]
+        },
+        "215_0": {
+            "lines": [
+                "Oh, ¿acaso los árboles de cerezo de tu mundo no han",
+                "florecido todavía?"
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "Ninguno todavía, ni siquiera los ojos de perdiz."
+            ]
+        },
+        "217_0": {
+            "lines": [
+                "Sería un fastidio que desarrollaras problemas de corazón."
+            ]
+        },
+        "218_0": {
+            "lines": [
+                "No es así."
+            ]
+        },
+        "219_0": {
+            "lines": [
+                "En primer lugar, mi señora no posee un",
+                "corazón débil."
+            ]
+        },
+        "220_0": {
+            "lines": [
+                "Es una lástima..."
+            ]
+        },
+        "221_0": {
+            "lines": [
+                "¿Una lástima?",
+                "Bien, suficiente, dejemos de hablar de plantas."
+            ]
+        },
+        "222_0": {
+            "lines": [
+                "Estoy ansiosa por entrar en calor."
+            ]
+        },
+        "223_0": {
+            "lines": [
+                "Devuélvenos ese calor. Ahora."
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "En una reunión de cadáveres"
+            ]
+        },
+        "225_0": {
+            "lines": [
+                "hay belleza."
+            ]
+        },
+        "226_0": {
+            "lines": [
+                "Lo mismo pasa con los árboles de cerezo y la primavera..."
+            ]
+        },
+        "227_0": {
+            "lines": [
+                "En primer lugar los cadáveres no son hermosos."
+            ]
+        },
+        "228_0": {
+            "lines": [
+                "Entonces..."
+            ]
+        },
+        "229_0": {
+            "lines": [
+                "¡Veré florecer los árboles, princesa cadáver!",
+                "¡Quitaré el sello al árbol, perro del demonio!"
+            ]
+        }
+    }
+}

@@ -1,0 +1,287 @@
+{
+    "0": {
+        "60_0": {
+            "lines": [
+                "¿Hmm?"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "¿Hay casas en un lugar como este?"
+            ]
+        },
+        "101_0": {
+            "lines": [
+                "¡Meterse aquí significa el final!"
+            ]
+        },
+        "102_h1_0": {
+            "lines": [
+                "Gata negra de los malos presagios",
+                "Chen"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "¿Final?"
+            ]
+        },
+        "103_0": {
+            "lines": [
+                "Bueno, no importa, bienvenida a Mayohiga."
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "Oye, ¿el final de qué?"
+            ]
+        },
+        "105_0": {
+            "lines": [
+                "Una vez que entras, no puedes marcharte."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "¿Eso es cierto?"
+            ]
+        },
+        "107_0": {
+            "lines": [
+                "Ahora que recuerdo, las cosas de Mayohiga..."
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "Se dice que traen suerte",
+                "si te las llevas a casa..."
+            ]
+        },
+        "109_0": {
+            "lines": [
+                "Es cierto."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "¡Entonces que comience el saqueo!"
+            ]
+        },
+        "111_0": {
+            "lines": [
+                "¡¿Qué?!"
+            ]
+        },
+        "112_0": {
+            "lines": [
+                "Este es nuestro hogar.",
+                "¿Te importaría marcharte, humana?"
+            ]
+        },
+        "113_0": {
+            "lines": [
+                "¿Qué ha pasado con lo de",
+                "\"una vez que entras, no puedes marcharte\"?"
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "Y ahora,"
+            ]
+        },
+        "60_1": {
+            "lines": [
+                "a saquear algunas cosas sencillas y ligeras."
+            ]
+        }
+    },
+    "10": {
+        "60_0": {
+            "lines": [
+                "Cielos."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Parece que algo con forma humana vive aquí."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Un gato, un perro o puede que un zorro..."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "No debes entrar en este lugar..."
+            ]
+        },
+        "103_h1_0": {
+            "lines": [
+                "Gata negra de los malos presagios",
+                "Chen"
+            ]
+        },
+        "103_0": {
+            "lines": [
+                "...\"Adéntrate y pronostica lo peor\", ¿cierto?"
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "¿Entonces cuál es tu propósito?"
+            ]
+        },
+        "105_0": {
+            "lines": [
+                "Ninguno que implique cosas de cuatro patas."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "Viajera, para llegar a este lugar,",
+                "muy seguramente hayas perdido tu camino."
+            ]
+        },
+        "107_0": {
+            "lines": [
+                "Nunca tuve alguno."
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "La reciente tormenta de nieve oscureció tu visión",
+                "y el viento está continuamente cambiando."
+            ]
+        },
+        "109_0": {
+            "lines": [
+                "¿Dices que la dirección del viento ha cambiado?",
+                "No me extraña."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "Y ahora no sabes el camino de vuelta."
+            ]
+        },
+        "111_0": {
+            "lines": [
+                "No me extraña."
+            ]
+        }
+    },
+    "11": {
+        "60_0": {
+            "lines": [
+                "No me extraña,"
+            ]
+        },
+        "60_1": {
+            "lines": [
+                "sigo cruzándome con gente rara."
+            ]
+        }
+    },
+    "20": {
+        "60_0": {
+            "lines": [
+                "A estas alturas debería ser ya primavera."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "O puede que me esté volviendo loca."
+            ]
+        },
+        "101_0": {
+            "lines": [
+                "¡En ese caso deberías pedir ayuda a un humano!"
+            ]
+        },
+        "102_h1_0": {
+            "lines": [
+                "Gata negra de los malos presagios",
+                "Chen"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "Pero tú no eres humana..."
+            ]
+        },
+        "103_0": {
+            "lines": [
+                "Bueno, tampoco tendría una respuesta si me preguntaras."
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "En días como éste,"
+            ]
+        },
+        "105_0": {
+            "lines": [
+                "los gatos deberían estar acurrucados",
+                "cómodamente bajo el kotatsu."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "¡No debes creer en esas supersticiones!"
+            ]
+        },
+        "107_0": {
+            "lines": [
+                "(No sabía que fuera un superstición...)"
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "¿Entonces qué se puede hacer con los gatos callejeros?"
+            ]
+        },
+        "109_0": {
+            "lines": [
+                "¿Por qué no hacer que descansen en un",
+                "refugio de animales?"
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "Se dice que las tierras puras del budismo son cálidas."
+            ]
+        },
+        "111_0": {
+            "lines": [
+                "¿Una humana? ¿Amenazándonos?"
+            ]
+        },
+        "112_0": {
+            "lines": [
+                "¡Imposible, completamente imposible!",
+                "Pensar que te opones a nosotros..."
+            ]
+        },
+        "113_0": {
+            "lines": [
+                "Yo, por mi parte, quisiera intentarlo."
+            ]
+        }
+    },
+    "21": {
+        "60_0": {
+            "lines": [
+                "Amén..."
+            ]
+        },
+        "60_1": {
+            "lines": [
+                "Sin duda alguna el paraíso debe",
+                "ser cálido."
+            ]
+        }
+    }
+}

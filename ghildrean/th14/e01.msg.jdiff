@@ -1,0 +1,199 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Reimu  $Marisa  $Shinmyoumaru  >El santuario Hakurei."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "Un santuario en la frontera oriental de Gensokyo."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<r$Reimu  >\"Parece que mi vara de purificación se ha calmado.\""
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<r$Marisa  >\"De hecho mi mini-Hakkero también se había vuelto loco."
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<l$> No sabía que tuvieras el mismo problema."
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<l$> Y quién iba a imaginar que era el poder del Mazo de los Milagros...\""
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<r$Reimu  >\"Por lo visto el plan era que sólo ella se hiciera fuerte",
+                "<l$> y causara una revuelta social."
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<l$> El pago fue liberar poder mágico, que hizo que las criaturas se volvieran violentas.\""
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<r$Marisa  >\"Así que los efectos del mazo fueron hacer que los youkai pacíficos causaran",
+                "<l$> revuelo y que las herramientas se movieran por sí solas... No me extraña.\""
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<r$Reimu  >\"¿El qué no te extraña?\""
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<r$Marisa  >\"Cuando sostengo mi mini-Hakkero, me siento un poco sombría."
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<l$> Siento deseos de quemar cosas, no importa el qué."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "<l$> Debe haber sido un efecto de la magia.\""
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<r$Reimu  >\"Hmm, en mi caso, no sentía nada de eso con mi vara.\""
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<r$Marisa  >\"¿De verdad? Bueno... Vaya.\""
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<r$Marisa  >\"Y, ¿qué ha pasado con estos youkai?"
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<l$> ¿Qué eran? ¿Una Issun-Boushi y una amanojaku?\""
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "<r$Reimu  >\"Bueno, sobre eso."
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "<l$> No sé dónde fue a parar la amanojaku, pero...\""
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "<r$Shinmyoumaru  >\"¡Aaaah, está temblando! ¿Es un terremoto?\""
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "<r$Reimu  >\"¿No estabas dormida?\""
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "<r$Marisa  >\"¡¿Eh?! ¿Me estás diciendo que ella es la responsable del incidente?\""
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "<r$Reimu  >\"Usó demasiado el poder del mazo,",
+                "<l$> por lo que no podrá hacerse grande durante un tiempo.\""
+            ]
+        },
+        "23_0": {
+            "lines": [
+                "<r$Shinmyoumaru  >\"Sí, es cierto."
+            ]
+        },
+        "24_0": {
+            "lines": [
+                "<l$> La compensación fue peor de lo que esperaba.\""
+            ]
+        },
+        "25_0": {
+            "lines": [
+                "<r$Marisa  >\"Oh, vaya..."
+            ]
+        },
+        "26_0": {
+            "lines": [
+                "<l$> Aun así, es un poco cruel tratarla como a un insecto, ¿no crees?\""
+            ]
+        },
+        "27_0": {
+            "lines": [
+                "<r$Reimu  >\"Para nada."
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "<l$> Está en una jaula para protegerla de otros insectos y animales.\""
+            ]
+        },
+        "29_0": {
+            "lines": [
+                "<r$Shinmyoumaru  >\"¡Gracias! ¡Eres muy considerada!\""
+            ]
+        },
+        "30_0": {
+            "lines": [
+                "Todo el poder almancenado en la Issun-Boushi fue liberado,",
+                "haciéndola pequeña una vez más. Así se quedará durante un tiempo."
+            ]
+        },
+        "31_0": {
+            "lines": [
+                "El Mazo de los Milagros tendrá que recuperar su poder con el tiempo."
+            ]
+        },
+        "32_0": {
+            "lines": [
+                "Se cree que las herramientas y los youkai débiles iran perdiendo gradualmente su poder."
+            ]
+        },
+        "33_0": {
+            "lines": [
+                "Hasta entonces, Shinmyoumaru será tan diminuta como se supone que deben ser los Issun-Boushi."
+            ]
+        },
+        "34_0": {
+            "lines": [
+                "¿Acaso se preocupó Reimu por ella porque se sentía culpable por los débiles?"
+            ]
+        },
+        "35_0": {
+            "lines": [
+                "Pero aun así, viendo a una youkai tan pequeña,",
+                "es difícil pensar que sea la responsable de una revuelta social."
+            ]
+        },
+        "36_0": {
+            "lines": [
+                "<c$Final No. 01 — Una Issun-Boushi en una jaula para insectos.$>"
+            ]
+        },
+        "37_0": {
+            "lines": [
+                "<c$¡Completado! ¡Felicidades! ¡Eres increíble!$>"
+            ]
+        }
+    }
+}
