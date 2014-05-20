@@ -68,7 +68,7 @@
 	"th14/help/helpmenu.png": 1518103708,
 	"th14/help_01.png": 2647689180,
 	"th14/help_02.png": 864827096,
-	"th14/help_03.png": 2259940273,
+	"th14/help_03.png": 1686487629,
 	"th14/help_04.png": 3810557459,
 	"th14/help_05.png": 2330701458,
 	"th14/help_06.png": 2008600282,
